@@ -22,7 +22,7 @@ $m3u8 = $stream.$vid_token;
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-  <link rel="shortcut icon" type="image/x-icon" href="https://www.zee5.com/images/ZEE5_logo.svg">
+  <link rel="shortcut icon" type="image/x-icon" href="imagehere">
   <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
   <link href="https://fonts.googleapis.com/css?family=Poppins|Quattrocento+Sans" rel="stylesheet"/>
   <script src="https://cdn.plyr.io/3.6.3/plyr.js"></script>
