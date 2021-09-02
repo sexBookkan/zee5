@@ -18,7 +18,7 @@ $m3u8 = $stream.$vid_token;
 
 <html>
 <head>
-  <title><?php echo $title; ?> | Avishkar Patil</title>
+  <title><?php echo $title; ?> | Zee5 Live </title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
